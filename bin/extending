@@ -5,3 +5,6 @@ require_relative "../lib/dancer"
 
 puts Kid.metadata
 puts Dancer.metadata
+
+# This class produces objects that love to dance.
+# This class produces objects that love to dance.
